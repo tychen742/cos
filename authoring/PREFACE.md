@@ -6,19 +6,19 @@ This book teaches beginner C through computational systems. It uses the language
 
 Every major C concept should point toward a systems question.
 
-| C Topic | Systems Lens |
-| --- | --- |
-| variables and types | representation, size, layout |
-| operators | machine-level cost and correctness |
-| conditionals and loops | control flow and performance |
-| arrays and strings | contiguous memory and bounds |
-| functions | call boundaries and modularity |
-| pointers | addresses, ownership, interfaces |
-| structs and enums | data layout and APIs |
-| dynamic memory | lifetimes, leaks, allocation cost |
-| files | persistence, streams, OS resources |
-| multi-file projects | headers, compilation units, linking |
-| packaging | dependencies, portability, reproducibility |
+| C Topic                | Systems Lens                               |
+|------------------------|--------------------------------------------|
+| variables and types    | representation, size, layout               |
+| operators              | machine-level cost and correctness         |
+| conditionals and loops | control flow and performance               |
+| arrays and strings     | contiguous memory and bounds               |
+| functions              | call boundaries and modularity             |
+| pointers               | addresses, ownership, interfaces           |
+| structs and enums      | data layout and APIs                       |
+| dynamic memory         | lifetimes, leaks, allocation cost          |
+| files                  | persistence, streams, OS resources         |
+| multi-file projects    | headers, compilation units, linking        |
+| packaging              | dependencies, portability, reproducibility |
 
 That gives the book a more distinctive purpose than another syntax-first introduction to C.
 
