@@ -1,0 +1,8 @@
+.DS_Store
+.vscode/*
+
+# C build output
+a.out
+*.o
+*.dSYM/
+output/
