@@ -1,4 +1,6 @@
-# C Book Draft
+# C for Computational Systems
+
+Programming, memory, operating-system interfaces, and reproducible native software.
 
 The teaching examples are organized as book chapters. Each chapter starts with small runnable programs and can grow toward a chapter project or exercises.
 
@@ -26,6 +28,7 @@ The teaching examples are organized as book chapters. Each chapter starts with s
 ## Authoring Files
 
 - `authoring/BOOK_PLAN.md` defines the audience, book promise, chapter sequence, and scope.
+- `authoring/PREFACE.md` states the systems perspective and why the book matters now.
 - `authoring/STYLE_GUIDE.md` defines writing and C example conventions.
 - `authoring/QUALITY_CHECKLIST.md` defines the review bar for chapters and examples.
 - `authoring/PROGRESS.md` tracks planning and draft status chapter by chapter.

@@ -19,6 +19,10 @@ Use functions to name operations and manage program size.
 4. Arrays with functions.
 5. Recursion preview.
 
+## Systems Lab
+
+Turn one repeated computation into a function contract with parameters, a return value, and array length information, then use an introductory call-boundary or stack-frame sketch to motivate modular project code.
+
 ## Deliberately Deferred
 
 - header/source separation until projects;

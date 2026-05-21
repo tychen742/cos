@@ -17,6 +17,10 @@ Model related data with user-defined types.
 3. Enum values and readable states.
 4. Short design example.
 
+## Systems Lab
+
+Model a project record with a `struct` and readable state with an `enum`, then inspect field order and layout questions at a beginner level before discussing larger APIs.
+
 ## Deliberately Deferred
 
 - full ABI and layout discussion;

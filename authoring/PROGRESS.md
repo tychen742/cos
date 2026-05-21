@@ -18,5 +18,5 @@
 ## Next Decisions
 
 1. Choose the manuscript/build format for the final book.
-2. Normalize Chapter 1 examples and remove compiled artifacts from the teaching track.
+2. Refine the early systems labs so they build toward the Chapter 12 project families without crowding the beginner C sequence.
 3. Refine Chapter 2 into a focused example sequence before drafting prose.

@@ -21,6 +21,10 @@ Make a first C program understandable and runnable.
 3. Comments and simple formatting.
 4. Input as a bounded preview.
 
+## Systems Lab
+
+Compile the first program with warnings enabled, distinguish the source file from the executable, observe the exit status, and identify standard input, standard output, and standard error as interfaces later project work will rely on.
+
 ## Deliberately Deferred
 
 - format specifier depth;

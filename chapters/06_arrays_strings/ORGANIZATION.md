@@ -17,6 +17,10 @@ Store related values and traverse them with loops.
 3. Size and element count.
 4. Character arrays and strings.
 
+## Systems Lab
+
+Inspect fixed array traversal and C string termination so readers connect contiguous storage, bounds, and project input buffers before pointer depth arrives.
+
 ## Deliberately Deferred
 
 - dynamic arrays;

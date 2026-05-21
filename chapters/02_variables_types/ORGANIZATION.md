@@ -24,6 +24,10 @@ Give readers the value and type vocabulary needed for expressions and control fl
 4. Size and conversion.
 5. Constants and short review.
 
+## Systems Lab
+
+Compare the sizes and printed forms of a few values so the reader sees that a type controls representation choices, storage size, and how project data can be interpreted.
+
 ## Deliberately Deferred
 
 - full string handling;

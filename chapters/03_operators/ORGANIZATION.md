@@ -17,6 +17,10 @@ Teach expressions readers need before making decisions and loops.
 3. Comparisons and logical operators.
 4. Short preview of bitwise operators.
 
+## Systems Lab
+
+Use expressions and warning-enabled compilation to check a small computed result, separating operator correctness from later performance questions in numerical and data-processing projects.
+
 ## Deliberately Deferred
 
 - bit manipulation applications;

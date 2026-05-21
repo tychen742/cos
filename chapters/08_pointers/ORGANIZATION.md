@@ -17,6 +17,10 @@ Build the memory vocabulary needed for C data flow and allocation.
 3. Pointer parameters.
 4. Arrays and pointers.
 
+## Systems Lab
+
+Compare an array argument with an explicit pointer parameter and use address, ownership vocabulary, and interface behavior without collapsing arrays and pointers into the same idea.
+
 ## Deliberately Deferred
 
 - dynamic allocation details until Chapter 10;

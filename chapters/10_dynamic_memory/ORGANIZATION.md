@@ -18,6 +18,10 @@ Move from fixed storage examples to explicit runtime ownership.
 4. Resize and cleanup.
 5. Common mistakes.
 
+## Systems Lab
+
+Grow a runtime-sized project collection while naming ownership, lifetime, allocation failure, cleanup, and the cost of heap-backed storage.
+
 ## Deliberately Deferred
 
 - custom allocators;

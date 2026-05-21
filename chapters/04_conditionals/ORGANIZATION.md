@@ -17,6 +17,10 @@ Turn expressions into decisions.
 3. Ternary expression.
 4. `switch`.
 
+## Systems Lab
+
+Add bounded input validation with a failure path that returns a nonzero exit status and reports a problem on standard error, preparing command-line project behavior.
+
 ## Deliberately Deferred
 
 - randomness until the branch examples are clear;
