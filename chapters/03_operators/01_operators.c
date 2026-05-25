@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdbool.h>
+#include <stdbool.h>    //bool type not a built in type in C, but can be used by including the stdbool.h header file
 
 int main()
 {
@@ -10,7 +10,7 @@ int main()
 
     int sum = num1 + num2;
     printf("num1 + num2 = %i \n", sum);
-    printf("num1 + num2 = %i \n\n", num1 + num2);
+    printf("num1 + num2 = %i \n", num1 + num2);
 
     printf("%% - modulus, return the division remainder:\n");
     printf("num1 %% num2 = %i \n\n", num1 % num2);
@@ -29,8 +29,7 @@ int main()
     printf("##### == != > < >= < #####\n");
     
     printf("### boolean #####\n");
-    printf("### bool type not a built in #####\n\n");
-    printf("need include: #include <stdbool.h>\n");
+    printf("include: #include <stdbool.h>\n");
     printf("is 10 > 9 true? (1: true; 0: false):    %d\n", 10 > 9);
     printf(" 10 > 9 is an expression and will evaluate to true or false\n\n");
 
