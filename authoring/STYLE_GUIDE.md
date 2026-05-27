@@ -3,6 +3,7 @@
 ## Teaching Voice
 
 - Explain the purpose of a construct before its variations.
+- Show standard syntax
 - Prefer concrete, small examples before richer applications.
 - Name deferred ideas explicitly instead of smuggling them into early examples.
 - Keep conceptual explanations precise without assuming the reader already knows C vocabulary.
